@@ -1,7 +1,7 @@
-# Python Calculator
+# Python Tables
 
-A sophisticated calculator for many different usages, written in Python.
+A simple mathematical table generator, written in Python.
 
 ### Information
-* Written using VSCode and Neovim
+* Written using Emacs 29 Demo
 * Written with Python version 3.11
