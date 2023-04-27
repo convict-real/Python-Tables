@@ -31,9 +31,9 @@ def main():
         print("Invalid response.")
         return
 
-    file_name = input("Enter the desired file name: ")
-
     if save_file == "y":
+	file_name = input("Enter the desired file name: ")
+
         file = open(f'{file_name}.txt', 'w')
 
         file.write(output)
